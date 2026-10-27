@@ -1,0 +1,15 @@
+build/
+cmake-build-*/
+.cache/
+.vscode/
+.idea/
+Debug/
+Release/
+.settings/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.log
+.DS_Store
